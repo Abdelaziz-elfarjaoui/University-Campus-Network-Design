@@ -10,7 +10,7 @@ The project was developed to simulate a real enterprise network infrastructure f
 
 ## Network Topology
 
-![Network Topology](images/Campus-Topology.png)
+![Network Topology](images/network-topology.png)
 
 ---
 
@@ -135,10 +135,3 @@ University-Campus-Network-Design/
 
 Engineering Student – Intelligent, Communicating and Mobile Systems
 
-Interested in:
-
-- Computer Networks
-- Network Security
-- Cybersecurity
-- Artificial Intelligence
-- Cloud Computing
